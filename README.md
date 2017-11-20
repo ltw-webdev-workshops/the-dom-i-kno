@@ -1,6 +1,6 @@
 # SVG❤JS
 
-An introduction to use Javascript & SVG together to make fantastic visualizations.
+An introduction to use JavaScript & SVG together to make fantastic visualizations.
 
 ### [☛ SVG❤JS curriculum](https://learn-the-web.algonquindesign.ca/workshops/svg-heart-js/)
 
