@@ -21,7 +21,7 @@ slides:
       ## Set up
 
       1. Form into pairs
-      2. [Fork & clone this repo](https://github.com/acgd-webdev-workshops/info-panel/fork)
+      2. [Fork & clone this repo](https://github.com/ltw-webdev-workshops/info-panel/fork)
       2. Use the HTML, CSS & JS from the previous activity
       3. Write out all necessary code
 

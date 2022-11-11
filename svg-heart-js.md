@@ -18,15 +18,15 @@ slides:
       **Understanding how to manipulate SVG elements with JavaScript can make great interactions.**
 
   - type: figure
-    video: "https://assets.learn-the-web.algonquindesign.ca/workshops/the-dom-i-kno/svg-heart-js.mp4"
+    video: "https://assets.learntheweb.courses/workshops/the-dom-i-kno/svg-heart-js.mp4"
     caption: "**Moving dinosaur egg**"
 
   - content: |
       ## Set up
 
       1. *This is an individual coding activity*
-      2. [**Fork & clone this repo**](https://github.com/acgd-webdev-workshops/svg-heart-js/fork)
-      3. [**Download the assets**](https://assets.learn-the-web.algonquindesign.ca/workshops/the-dom-i-kno/svg-heart-js-download.zip)
+      2. [**Fork & clone this repo**](https://github.com/ltw-webdev-workshops/svg-heart-js/fork)
+      3. [**Download the assets**](https://assets.learntheweb.courses/workshops/the-dom-i-kno/svg-heart-js-download.zip)
       4. We’re going to work together, but independently, to each create an interactive SVG
 
   - content: |

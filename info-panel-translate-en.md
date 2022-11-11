@@ -21,12 +21,12 @@ slides:
       ## Set up
 
       1. Form into pairs
-      2. [Download the HTML, CSS & JS code snippets](https://assets.learn-the-web.algonquindesign.ca/workshops/the-dom-i-kno/info-panel-download.zip)
+      2. [Download the HTML, CSS & JS code snippets](https://assets.learntheweb.courses/workshops/the-dom-i-kno/info-panel-download.zip)
       3. You’ll be shown a JavaScript interaction
       4. Assemble the JS code puzzle to make the solution
 
   - type: figure
-    video: "https://assets.learn-the-web.algonquindesign.ca/workshops/the-dom-i-kno/info-panel.mp4"
+    video: "https://assets.learntheweb.courses/workshops/the-dom-i-kno/info-panel.mp4"
     caption: "**Info panel**"
 
 ---

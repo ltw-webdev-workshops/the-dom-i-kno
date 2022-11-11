@@ -21,7 +21,7 @@ slides:
       ## Set up
 
       1. *This is an individual coding activity*
-      2. [**Fork & clone this repo**](https://github.com/acgd-webdev-workshops/dino-rmous-carousel/fork)
+      2. [**Fork & clone this repo**](https://github.com/ltw-webdev-workshops/dino-rmous-carousel/fork)
       3. We’re going to work together & separately to each create a unique carousel
 
   - content: |
