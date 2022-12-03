@@ -26,7 +26,7 @@ slides:
       4. Assemble the JS code puzzle to make the solution
 
   - type: figure
-    video: "https://assets.learntheweb.courses/workshops/the-dom-i-kno/info-panel.mp4"
+    video: "https://videos.learntheweb.courses/playlists/web-dev-js/info-panel.mp4"
     caption: "**Info panel**"
 
 ---

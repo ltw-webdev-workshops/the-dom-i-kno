@@ -18,7 +18,7 @@ slides:
       **Understanding how to manipulate SVG elements with JavaScript can make great interactions.**
 
   - type: figure
-    video: "https://assets.learntheweb.courses/workshops/the-dom-i-kno/svg-heart-js.mp4"
+    video: "https://videos.learntheweb.courses/playlists/web-dev-js/svg-heart-js.mp4"
     caption: "**Moving dinosaur egg**"
 
   - content: |
